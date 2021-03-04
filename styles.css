@@ -1,0 +1,67 @@
+
+body{
+background-color: lightgrey;
+font-family: helvetica, arial,sans-serif;
+color: darkgray;
+}
+img{
+
+border: lightpink 2px solid;
+
+background: white;
+
+margin: 1%;
+
+padding: 2%;
+width:100%;
+}
+#top{
+text-align: center;
+color: blue;
+font-family: futura,sans-serif;
+}
+a{
+border: red 2px solid;
+color: MediumOrchid;
+text-decoration: none;
+}
+h2{
+border: purple 3px solid;
+color:green;
+}
+#one{
+  color:#D65076;
+}
+.fifty{
+  width:400px;
+}
+.center{
+  margin:auto;
+  width:400px;
+  display:block;
+  }
+
+  ol{
+    padding: 2%;
+
+    margin: auto;
+
+    width: 80%;
+
+
+  }
+  li{
+    border-bottom: white 2px solid;  padding: 5px;
+
+      width: 90%;
+
+      margin: auto;
+    }
+    .cover{
+    background: url("mixtape-cover.jpg");
+    height: 700px;
+
+    background-repeat: no-repeat;
+    background-position:center;
+    /* https://www.postermywall.com/index.php/art/template/81c1eb6132ae7e61b15992d50b87bafd/welcome-to-church-mixtape-cd-cover-design-template#.YD0vbyV7nUI */
+    }
